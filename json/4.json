@@ -1,7 +1,7 @@
 {
-  "name": "Snow - Accessory",
-  "description": "This NFT Contains 1 trait: Snow - Accessory",
-  "image": "https://raw.githubusercontent.com/HODL-Community/AVAXolotl-Arcade-NFT-Collection/main/images/1.png",
+  "name": "Pink - Eyes",
+  "description": "This NFT Contains 1 trait: Pink - Eyes",
+  "image": "https://raw.githubusercontent.com/HODL-Community/AVAXolotl-Arcade-NFT-Collection/main/images/4.png",
   "attributes": [
     {
       "trait_type": "Background",
@@ -10,8 +10,6 @@
     {
       "trait_type": "Skin",
       "value": "None"
-
-      
     },
     {
       "trait_type": "Gills",
@@ -27,7 +25,7 @@
     },
     {
       "trait_type": "Eyes",
-      "value": "None"
+      "value": "Pink"
     },
     {
       "trait_type": "Glasses",
@@ -39,7 +37,7 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Snow"
+      "value": "None"
     }
   ],
   "compiler": "HashLips Art Engine"

@@ -1,7 +1,7 @@
 {
-  "name": "Snow - Accessory",
-  "description": "This NFT Contains 1 trait: Snow - Accessory",
-  "image": "https://raw.githubusercontent.com/HODL-Community/AVAXolotl-Arcade-NFT-Collection/main/images/1.png",
+  "name": "Knight Combo (Open Helmet)",
+  "description": "This NFT Contains 2 traits: Knight Armour - Clothing, & Knight Helmet (Open) - Hat",
+  "image": "https://raw.githubusercontent.com/HODL-Community/AVAXolotl-Arcade-NFT-Collection/main/images/8.png",
   "attributes": [
     {
       "trait_type": "Background",
@@ -10,8 +10,6 @@
     {
       "trait_type": "Skin",
       "value": "None"
-
-      
     },
     {
       "trait_type": "Gills",
@@ -19,7 +17,7 @@
     },
     {
       "trait_type": "Clothing",
-      "value": "None"
+      "value": "Knight Armour"
     },
     {
       "trait_type": "Mouth",
@@ -35,11 +33,15 @@
     },
     {
       "trait_type": "Hat",
-      "value": "None"
+      "value": "Knight Helmet (Open)"
     },
     {
       "trait_type": "Accessory",
-      "value": "Snow"
+      "value": "None"
+    },
+    {
+      "trait_type": "Back",
+      "value": "None"
     }
   ],
   "compiler": "HashLips Art Engine"
