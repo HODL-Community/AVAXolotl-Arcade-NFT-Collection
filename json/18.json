@@ -1,0 +1,48 @@
+{
+  "name": "Ruins - Background",
+  "description": "This NFT Contains 1 trait: Ruins - Background",
+  "image": "https://raw.githubusercontent.com/HODL-Community/AVAXolotl-Arcade-NFT-Collection/main/images/18.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Ruins"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "None"
+    },
+    {
+      "trait_type": "Gills",
+      "value": "None"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "None"
+    },
+    {
+      "trait_type": "Back",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Robot Combo",
+  "description": "This NFT Contains 4 traits: Robot - Skin, Robot - Gills, Robot Eyes, & Robot - Mouth",
+  "image": "https://raw.githubusercontent.com/HODL-Community/AVAXolotl-Arcade-NFT-Collection/main/images/15.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "None"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Gills",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "None"
+    },
+    {
+      "trait_type": "Back",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

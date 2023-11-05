@@ -1,0 +1,48 @@
+{
+  "name": "X-Ray Combo",
+  "description": "This NFT Contains 3 traits: X-Ray - Skin, X-Ray - Mouth, & X-Ray - Gills.",
+  "image": "https://raw.githubusercontent.com/HODL-Community/AVAXolotl-Arcade-NFT-Collection/main/images/21.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "None"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "X-Ray"
+    },
+    {
+      "trait_type": "Gills",
+      "value": "X-Ray"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "X-Ray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "None"
+    },
+    {
+      "trait_type": "Back",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
