@@ -1,7 +1,7 @@
 {
-  "name": "Snow - Accessory",
-  "description": "This NFT Contains 1 trait: Snow - Accessory",
-  "image": "https://raw.githubusercontent.com/HODL-Community/AVAXolotl-Arcade-NFT-Collection/main/images/Basic/Snow.png",
+  "name": "Gold Gillrings - Accessory",
+  "description": "This NFT Contains 1 trait: Gold Gillrings - Accessory",
+  "image": "https://raw.githubusercontent.com/HODL-Community/AVAXolotl-Arcade-NFT-Collection/main/images/Basic/Gold%20Gillrings.png",
   "attributes": [
     {
       "trait_type": "Background",
@@ -10,8 +10,6 @@
     {
       "trait_type": "Skin",
       "value": "None"
-
-      
     },
     {
       "trait_type": "Gills",
@@ -39,7 +37,7 @@
     },
     {
       "trait_type": "Accessory",
-      "value": "Snow"
+      "value": "Gold Gillrings"
     }
   ],
   "compiler": "HashLips Art Engine"
